@@ -1,7 +1,7 @@
 # EP-491_VST_Recommender_System
 VST_Recommender_system was developed in Python3.
 
-#Developer
+#Developer\
 This Project is developed by "Jungwoo Kim".
 Jungwoo Kim is Alumni from Berklee College of Music.
 
