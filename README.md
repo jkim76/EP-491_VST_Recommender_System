@@ -52,7 +52,7 @@ Third, the overall accuracy is very low because of the labeling of instrument ty
 \
 \
 #Future improvement\
-Therefore, I need to improver accuracy by getting different types of sound qualities and instrument type from different producer and name them properly for machine learning in music field.\
+Therefore, I need to improve accuracy by getting different types of sound qualities and instrument type from different producer and name them properly for machine learning in music field.\
 
 
 
