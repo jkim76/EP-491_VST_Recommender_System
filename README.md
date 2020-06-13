@@ -12,12 +12,13 @@ Jupyter Notebook and Visual studio code\
 \
 Used Libraries.\
 Numpy, Pandas, Librosa, Sci-kit Learn\
-
-
+\
+\
+\
+\
 #Purpose\
 The main purpose of this project is to minimized time for searching for sound preset in music production process.\
 Most of musicians spend time searching for similar sound preset and instrument that they like to used in their production.\
-\
 \
 \
 \
@@ -36,7 +37,6 @@ In the future I'll be adding features of comparing new audio files and its featu
 \
 \
 \
-\
 #Problems\
 First, problem is I don't have enough audio samples to compare. I used only 120 audio samples from Serum.\
 \
@@ -47,7 +47,6 @@ For example, if I would choose 'Bass' Instrument, there would be 'deep house bas
 \
 \
 Third, the overall accuracy is very low because of the labeling of instrument type is very limited and audio feature is very different from each samples.\
-\
 \
 \
 \
